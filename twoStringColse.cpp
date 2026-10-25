@@ -27,8 +27,7 @@ bool campareWord(string word1,string word2){
     }
    }
 
-   string word3="}";
-   cout<<int(word3[0]);
+   
     cout<<"it is valid";
      
     return true;
